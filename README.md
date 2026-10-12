@@ -23,7 +23,9 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
-
+### 2026 年 10 月 13 号添加
+#### AnshengHu - [Github](https://github.com/zgaobai)
+* :white_check_mark: [Translate](https://translate.glance-tech.cn)：文档一键翻译译文保留原版式上传 PDF / Word，翻成 20+ 种语言。前 3 页免费预览，满意再付费。
 ### 2026 年 10 月 12 号添加
 
 #### AnshengHu - [Github](https://github.com/zgaobai)
